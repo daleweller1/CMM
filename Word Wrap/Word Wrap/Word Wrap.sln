@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word Wrap", "Word Wrap\Word Wrap.csproj", "{7A271335-1E5B-4BD3-B04E-1652B7ACDF92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A271335-1E5B-4BD3-B04E-1652B7ACDF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A271335-1E5B-4BD3-B04E-1652B7ACDF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A271335-1E5B-4BD3-B04E-1652B7ACDF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A271335-1E5B-4BD3-B04E-1652B7ACDF92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1510F139-74F4-4DCD-9864-E77649AAAB32}
+	EndGlobalSection
+EndGlobal

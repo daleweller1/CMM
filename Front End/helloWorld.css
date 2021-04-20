@@ -1,0 +1,21 @@
+body {
+    background-color: lightgray;
+}
+
+#helloWorld {
+    text-align: center;
+    font-size: xx-large;
+}
+
+#world {
+    background-color: black;
+    color: white;
+}
+
+h3 {
+    text-align: center;
+    margin: 1em auto 1em auto;
+    width: fit-content;
+    padding: 0.5em;
+    border-style: solid;
+}

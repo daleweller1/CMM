@@ -1,0 +1,13 @@
+C:\Users\dwell\OneDrive\Git\CMM\Word Wrap\Word Wrap\Word Wrap\bin\Debug\netcoreapp3.1\Word Wrap.exe
+C:\Users\dwell\OneDrive\Git\CMM\Word Wrap\Word Wrap\Word Wrap\bin\Debug\netcoreapp3.1\Word Wrap.deps.json
+C:\Users\dwell\OneDrive\Git\CMM\Word Wrap\Word Wrap\Word Wrap\bin\Debug\netcoreapp3.1\Word Wrap.runtimeconfig.json
+C:\Users\dwell\OneDrive\Git\CMM\Word Wrap\Word Wrap\Word Wrap\bin\Debug\netcoreapp3.1\Word Wrap.runtimeconfig.dev.json
+C:\Users\dwell\OneDrive\Git\CMM\Word Wrap\Word Wrap\Word Wrap\bin\Debug\netcoreapp3.1\Word Wrap.dll
+C:\Users\dwell\OneDrive\Git\CMM\Word Wrap\Word Wrap\Word Wrap\bin\Debug\netcoreapp3.1\Word Wrap.pdb
+C:\Users\dwell\OneDrive\Git\CMM\Word Wrap\Word Wrap\Word Wrap\obj\Debug\netcoreapp3.1\Word Wrap.csprojAssemblyReference.cache
+C:\Users\dwell\OneDrive\Git\CMM\Word Wrap\Word Wrap\Word Wrap\obj\Debug\netcoreapp3.1\Word Wrap.AssemblyInfoInputs.cache
+C:\Users\dwell\OneDrive\Git\CMM\Word Wrap\Word Wrap\Word Wrap\obj\Debug\netcoreapp3.1\Word Wrap.AssemblyInfo.cs
+C:\Users\dwell\OneDrive\Git\CMM\Word Wrap\Word Wrap\Word Wrap\obj\Debug\netcoreapp3.1\Word Wrap.csproj.CoreCompileInputs.cache
+C:\Users\dwell\OneDrive\Git\CMM\Word Wrap\Word Wrap\Word Wrap\obj\Debug\netcoreapp3.1\Word Wrap.dll
+C:\Users\dwell\OneDrive\Git\CMM\Word Wrap\Word Wrap\Word Wrap\obj\Debug\netcoreapp3.1\Word Wrap.pdb
+C:\Users\dwell\OneDrive\Git\CMM\Word Wrap\Word Wrap\Word Wrap\obj\Debug\netcoreapp3.1\Word Wrap.genruntimeconfig.cache
