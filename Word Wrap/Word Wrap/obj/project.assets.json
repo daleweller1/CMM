@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dwell\\OneDrive\\Git\\CMM\\Word Wrap\\Word Wrap\\Word Wrap\\Word Wrap.csproj",
+      "projectUniqueName": "C:\\Users\\dwell\\OneDrive\\Git\\CMM\\Word Wrap\\Word Wrap\\Word Wrap.csproj",
       "projectName": "Word Wrap",
-      "projectPath": "C:\\Users\\dwell\\OneDrive\\Git\\CMM\\Word Wrap\\Word Wrap\\Word Wrap\\Word Wrap.csproj",
+      "projectPath": "C:\\Users\\dwell\\OneDrive\\Git\\CMM\\Word Wrap\\Word Wrap\\Word Wrap.csproj",
       "packagesPath": "C:\\Users\\dwell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dwell\\OneDrive\\Git\\CMM\\Word Wrap\\Word Wrap\\Word Wrap\\obj\\",
+      "outputPath": "C:\\Users\\dwell\\OneDrive\\Git\\CMM\\Word Wrap\\Word Wrap\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -36,6 +36,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -47,6 +48,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -57,12 +59,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.1.20452.10\\RuntimeIdentifierGraph.json"
       }
     }
   }
