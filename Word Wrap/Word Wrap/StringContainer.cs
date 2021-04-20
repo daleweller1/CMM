@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Word_Wrap
+namespace WordWrap
 {
     public class StringContainer
     {
